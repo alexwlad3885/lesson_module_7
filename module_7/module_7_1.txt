@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 My soul is dark - Oh! quickly string
 The harp I yet can brook to hear;
 And let thy gentle fingers fling
